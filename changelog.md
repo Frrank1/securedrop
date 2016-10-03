@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.10-rc3
+
+Testing integration of `securedrop-keyring` package.
+
 ## 0.3.9
 
 Point release to fix some minor issues and update our Python dependencies.
